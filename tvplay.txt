@@ -107,7 +107,11 @@ https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 #EXTINF:-1 tvg-id="extratv" tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/11/Extra-TV-1280x800-1.png" group-title="COSTA RICA",Extra TV
 https://d2axu5ozwr5gk0.cloudfront.net/live2/gxtra-cr-dxtra-tv_720p/chunks.m3u8?C2Findex.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",FX
+https://streamer1.nexgen.bz/FX/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",History
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
 
 
 #ANIME
