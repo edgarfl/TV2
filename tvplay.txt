@@ -182,6 +182,9 @@ http://clubtv.link/2201Ene/phpcode/lista8.php?c=46526&token=TecnoGenerador10154&
 #EXTINF:-1  group-title="PELICULAS",CINEMAX	
 http://clubtv.link/2201Ene/phpcode/lista8.php?c=46572&token=TecnoGenerador10154&f=.m3u8
 
+#EXTINF:-1  group-title="PELICULAS",HBO	
+http://clubtv.link/2201Ene/phpcode/lista8.php?c=46629&token=TecnoGenerador10154&f=.m3u8
+
 
 #SERIES
 
