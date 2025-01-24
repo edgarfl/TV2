@@ -17,6 +17,9 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="COSTA RICA",Canal 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1  group-title="COSTA RICA",Teletica HD 
+http://clubtv.link/2201Ene/phpcode/lista8.php?c=46826&token=TecnoGenerador10154&f=.m3u8
+
 #EXTINF:-1 tvg-id="Canal8.cr" tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="COSTA RICA",Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
@@ -111,8 +114,6 @@ https://d2axu5ozwr5gk0.cloudfront.net/live2/gxtra-cr-dxtra-tv_720p/chunks.m3u8?C
 https://streamer1.nexgen.bz/FX/index.m3u8
 
 
-
-
 #ANIME
 
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="ANIME",Anime TV (360p) [Not 24/7]
@@ -190,6 +191,9 @@ http://clubtv.link/2201Ene/phpcode/lista8.php?c=46538&token=TecnoGenerador10154&
 #EXTINF:-1  group-title="PELICULAS",FILM & ARTS	
 http://clubtv.link/2201Ene/phpcode/lista8.php?c=46596&token=TecnoGenerador10154&f=.m3u8
 
+#EXTINF:-1  group-title="PELICULAS",TNT	
+http://clubtv.link/2201Ene/phpcode/lista8.php?c=46680&token=TecnoGenerador10154&f=.m3u8
+
 #CULTURA
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",History
@@ -241,6 +245,9 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="NOTICIAS",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1  group-title="NOTICIAS",CNN EN ESPANOL
+http://clubtv.link/2201Ene/phpcode/lista8.php?c=46946&token=TecnoGenerador10154&f=.m3u8
 
 #DEPORTES
 
