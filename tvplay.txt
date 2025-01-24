@@ -110,8 +110,7 @@ https://d2axu5ozwr5gk0.cloudfront.net/live2/gxtra-cr-dxtra-tv_720p/chunks.m3u8?C
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",FX
 https://streamer1.nexgen.bz/FX/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",History
-https://streamer1.nexgen.bz/HISTORY/index.m3u8
+
 
 
 #ANIME
@@ -188,6 +187,25 @@ http://clubtv.link/2201Ene/phpcode/lista8.php?c=46629&token=TecnoGenerador10154&
 #EXTINF:-1  group-title="PELICULAS",CINE CANAL HD	
 http://clubtv.link/2201Ene/phpcode/lista8.php?c=46538&token=TecnoGenerador10154&f=.m3u8
 
+#EXTINF:-1  group-title="PELICULAS",FILM & ARTS	
+http://clubtv.link/2201Ene/phpcode/lista8.php?c=46596&token=TecnoGenerador10154&f=.m3u8
+
+#CULTURA
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",History
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+
+#EXTINF:-1  group-title="CULTURA",DISCOVERY H&H	
+http://clubtv.link/2201Ene/phpcode/lista8.php?c=46582&token=TecnoGenerador10154&f=.m3u8
+
+#EXTINF:-1  group-title="CULTURA",DISCOVERY SCIENCE HD	
+http://clubtv.link/2201Ene/phpcode/lista8.php?c=46586&token=TecnoGenerador10154&f=.m3u8
+
+#EXTINF:-1  group-title="CULTURA",DISCOVERY THEATER HD	
+http://clubtv.link/2201Ene/phpcode/lista8.php?c=46587&token=TecnoGenerador10154&f=.m3u8
+
+#EXTINF:-1  group-title="CULTURA",NAT GEO HD	
+http://clubtv.link/2201Ene/phpcode/lista8.php?c=46650&token=TecnoGenerador10154&f=.m3u8
 
 
 #SERIES
