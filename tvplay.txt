@@ -110,8 +110,6 @@ https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 #EXTINF:-1 tvg-id="extratv" tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/11/Extra-TV-1280x800-1.png" group-title="COSTA RICA",Extra TV
 https://d2axu5ozwr5gk0.cloudfront.net/live2/gxtra-cr-dxtra-tv_720p/chunks.m3u8?C2Findex.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",FX
-https://streamer1.nexgen.bz/FX/index.m3u8
 
 
 #ANIME
@@ -140,10 +138,10 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="PELICULAS",MyTime Movie Network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",AMC en español
+#EXTINF:-1 tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2014/08/amc-logo.jpg?w=1000&h=667&crop=1" group-title="PELICULAS",AMC en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PELICULAS",Hallmark en español
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsMoMy_TQqlnG8MB8PrhYMDSQvPzHNvIgPw&s" group-title="PELICULAS",Hallmark en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c
 
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="PELICULAS",Azteca Internacional (1080p)
@@ -194,6 +192,10 @@ http://clubtv.link/2201Ene/phpcode/lista8.php?c=46596&token=TecnoGenerador10154&
 #EXTINF:-1  tvg-id="19384" tvg-logo="https://w7.pngwing.com/pngs/733/502/png-transparent-tnt-series-turner-broadcasting-system-television-logo-comedy-miscellaneous-text-trademark.png" group-title="PELICULAS",TNT	
 http://clubtv.link/2201Ene/phpcode/lista8.php?c=46680&token=TecnoGenerador10154&f=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj" group-title="PELICULAS",FX
+https://streamer1.nexgen.bz/FX/index.m3u8
+
+
 #CULTURA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="CULTURA",History
@@ -217,7 +219,7 @@ http://clubtv.link/2201Ene/phpcode/lista8.php?c=46650&token=TecnoGenerador10154&
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSblkD0MJs0Kgtyk3Jk1JtVtGhAujhftLp8CA&s" group-title="CULTURA",E! ENTERTAINMENT HD	
 http://clubtv.link/2201Ene/phpcode/lista8.php?c=46593&token=TecnoGenerador10154&f=.m3u8
 
-#EXTINF:-1  tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="TV PREMIUM",EL GOURMET HD	
+#EXTINF:-1  tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="CULTURA",EL GOURMET HD	
 http://clubtv.link/2201Ene/phpcode/lista8.php?c=46594&token=TecnoGenerador10154&f=.m3u8
 
 
