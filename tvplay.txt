@@ -192,16 +192,16 @@ http://clubtv.link/2201Ene/phpcode/lista8.php?c=46596&token=TecnoGenerador10154&
 #EXTINF:-1  tvg-id="19384" tvg-logo="https://w7.pngwing.com/pngs/733/502/png-transparent-tnt-series-turner-broadcasting-system-television-logo-comedy-miscellaneous-text-trademark.png" group-title="PELICULAS",TNT	
 http://clubtv.link/2201Ene/phpcode/lista8.php?c=46680&token=TecnoGenerador10154&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj" group-title="PELICULAS",FX
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj" group-title="PELICULAS",FX
 https://streamer1.nexgen.bz/FX/index.m3u8
 
 
 #CULTURA
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ak1k-8WLkiRj4ZrWOMTDYzMIK97iuhb9Ocy7251h47o7S6R7imwl4ivKQAO1sRxlPzDK_rPx6A=s900-c-k-c0x00ffffff-no-rj" group-title="CULTURA",History
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://yt3.googleusercontent.com/ak1k-8WLkiRj4ZrWOMTDYzMIK97iuhb9Ocy7251h47o7S6R7imwl4ivKQAO1sRxlPzDK_rPx6A=s900-c-k-c0x00ffffff-no-rj" group-title="CULTURA",History
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CULTURA",H2 HD	
+#EXTINF:-1 tvg-id="H2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CULTURA",H2 HD	
 http://clubtv.link/2201Ene/phpcode/lista8.php?c=46628&token=TecnoGenerador10154&f=.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA",DISCOVERY H&H	
