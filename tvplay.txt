@@ -180,7 +180,7 @@ https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/tnt/index.m3u8
 #EXTINF:-1 tvg-id="space" tvg-logo="https://pbs.twimg.com/profile_images/1843311268519616512/JjJEY1Tu_400x400.jpg" group-title="PELICULAS",space
 https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/space/index.m3u8
 
-EXTINF:-1 tvg-id="EDGE" tvg-logo="xxx" group-title="PELICULAS",EDGE
+EXTINF:-1 tvg-id="EDGE" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/golden-edgev-9ae69024.png" group-title="PELICULAS",EDGE
 https://spinoff.link/live/mpd.php?url=https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd&k=aacbecfb7f1da441a420a582400102da&id=717324c2c4e6694baddacfd5fbd3a20f
 
 
