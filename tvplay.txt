@@ -174,26 +174,14 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="PELICULAS",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjYl5u34dTNFsA99cWzegW4wUkhmalbXvPQQ&s" group-title="PELICULAS",A&E	
-http://clubtv.link/2201Ene/phpcode/lista8.php?c=46526&token=TecnoGenerador10154&f=.m3u8
-
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY2iiBs5y6iILfy6Z5TveXNQnrLGOtxeGi6Q&s" group-title="PELICULAS",CINEMAX	
-http://clubtv.link/2201Ene/phpcode/lista8.php?c=46572&token=TecnoGenerador10154&f=.m3u8
-
 #EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSyIO1bWKsHjz_cBuX2D3RHALn1-uCsxhW-Q&s"group-title="PELICULAS",HBO	
 https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/hbo/index.m3u8
-
-#EXTINF:-1 tvg-id="16435" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Cinecanal_2010.png/revision/latest?cb=20220325002620&path-prefix=es" group-title="PELICULAS",CINE CANAL HD	
-http://clubtv.link/2201Ene/phpcode/lista8.php?c=46538&token=TecnoGenerador10154&f=.m3u8
-
-#EXTINF:-1  tvg-id="88305" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Film_%26_Arts_1999.jpg/revision/latest?cb=20220809004715" group-title="PELICULAS",FILM & ARTS	
-http://clubtv.link/2201Ene/phpcode/lista8.php?c=46596&token=TecnoGenerador10154&f=.m3u8
 
 #EXTINF:-1  tvg-id="19384" tvg-logo="https://w7.pngwing.com/pngs/733/502/png-transparent-tnt-series-turner-broadcasting-system-television-logo-comedy-miscellaneous-text-trademark.png" group-title="PELICULAS",TNT	
 https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/tnt/index.m3u8
 
-#EXTINF:-1 tvg-id="FX" tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj" group-title="PELICULAS",FX
-https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1 tvg-id="space" tvg-logo="https://pbs.twimg.com/profile_images/1843311268519616512/JjJEY1Tu_400x400.jpg" group-title="PELICULAS",space
+https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/space/index.m3u8
 
 
 #CULTURA
