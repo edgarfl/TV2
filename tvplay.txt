@@ -181,7 +181,6 @@ https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/tnt/index.m3u8
 https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/space/index.m3u8
 
 #EXTINF:-1 tvg-id="edge" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/golden-edgev-9ae69024.png?fit=500%2C500&ssl=1" group-title="PELICULAS", edge
-
 https://spinoff.link/live/mpd.php?url=https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER--2HR-HD/default.mpd&k=aacbecfb7f1da441a420a582400102da&id=717324c2c4e6694baddacfd5fbd3a20f
 #CULTURA
 
