@@ -183,32 +183,7 @@ https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/space/index.m3u8
 
 #CULTURA
 
-#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://yt3.googleusercontent.com/ak1k-8WLkiRj4ZrWOMTDYzMIK97iuhb9Ocy7251h47o7S6R7imwl4ivKQAO1sRxlPzDK_rPx6A=s900-c-k-c0x00ffffff-no-rj" group-title="CULTURA",History
-https://streamer1.nexgen.bz/HISTORY/index.m3u8
 
-#EXTINF:-1 tvg-id="H2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CULTURA",H2 HD	
-http://clubtv.link/2201Ene/phpcode/lista8.php?c=46628&token=TecnoGenerador10154&f=.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="CULTURA",DISCOVERY H&H	
-http://clubtv.link/2201Ene/phpcode/lista8.php?c=46582&token=TecnoGenerador10154&f=.m3u8
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMplQ9fIk6QJwWqzz6RQcajQGSrLVAdiNQlQ&s" group-title="CULTURA",DISCOVERY SCIENCE HD	
-http://clubtv.link/2201Ene/phpcode/lista8.php?c=46586&token=TecnoGenerador10154&f=.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/P3I-giYVl7Y/maxresdefault.jpg" group-title="CULTURA",DISCOVERY THEATER HD	
-http://clubtv.link/2201Ene/phpcode/lista8.php?c=46587&token=TecnoGenerador10154&f=.m3u8
-
-#EXTINF:-1  tvg-logo="https://tv.assets.pressassociation.io/a13992da-a881-5291-abb4-18970dd1ee57.png" group-title="CULTURA",NAT GEO HD	
-http://clubtv.link/2201Ene/phpcode/lista8.php?c=46650&token=TecnoGenerador10154&f=.m3u8
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSblkD0MJs0Kgtyk3Jk1JtVtGhAujhftLp8CA&s" group-title="CULTURA",E! ENTERTAINMENT HD	
-http://clubtv.link/2201Ene/phpcode/lista8.php?c=46593&token=TecnoGenerador10154&f=.m3u8
-
-#EXTINF:-1  tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="CULTURA",EL GOURMET HD	
-http://clubtv.link/2201Ene/phpcode/lista8.php?c=46594&token=TecnoGenerador10154&f=.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CULTURA",ANIMAL PLANET	
-http://clubtv.link/2201Ene/phpcode/lista8.php?c=46531&token=TecnoGenerador10154&f=.m3u8
 
 
 
