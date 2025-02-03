@@ -182,10 +182,6 @@ https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/space/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNERTV" tvg-logo="ttps://yt3.googleusercontent.com/dEkwz4n41BeYhGKt01PQJ6KAtBkzh2Swu7qqHzZ6VJoRDWAe8tP0roRw0ctZwNlRfCPEExvcKDI=s900-c-k-c0x00ffffff-no-rj" group-title="PELICULAS",WARNERTV
 https://spinoff.link/live/mpd.php?url=https://live-atv-cdn.izzigo.tv/5/out/u/dash/WARNER-HD/default.mpd&id=a62d210f0f907a0ebfb84a790d42780b&k=590779be25e38a41d817f6ad13f5b070
-
-
-
-
 #CULTURA
 
 
