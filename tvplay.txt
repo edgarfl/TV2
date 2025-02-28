@@ -36,7 +36,7 @@ https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="OPA.cr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwwoSeqz9zdErwowQvRAJXziiWllOuAirhA&s" group-title="COSTA RICA",¡OPA!38 
-https://opa.usastreams.com:3101/live/canalopalive.m3u8
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w1486373510.m3u8
 
 #EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="COSTA RICA",NicoyaTV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
