@@ -156,6 +156,12 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PELICULAS",CINECANAL
 http://201.182.248.254:8888/play/a07u/index.m3u8
 
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="PELICULAS",CINEMAX
+http://201.182.248.254:8888/play/a0aa/index.m3u8
+
+#EXTINF:-1 tvg-id="DHE" tvg-logo="https://logowik.com/content/uploads/images/canal-dhe5540.logowik.com.webp" group-title="PELICULAS",DHE
+http://201.182.248.254:8888/play/a09h/index.m3u8
+
 #EXTINF:-1 tvg-id="CineramaTelevision.bo" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="PELICULAS",Cinerama TV (480p) [Not 24/7]
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
