@@ -201,6 +201,15 @@ https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/space/index.m3u8
 #EXTINF:-1 tvg-id="xxx" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Discovery_Channel_Logo_Design_History_Evolution_3_1024x1024.jpg?v=1694070082" group-title="CULTURA",DISCOVERY HD
 http://201.182.248.254:8888/play/a0ae/index.m3u8
 
+#EXTINF:-1 tvg-id="xxx" tvg-logo="https://commons.wikimedia.org/wiki/File:History_Logo.svg" group-title="CULTURA", History Channel
+http://190.60.38.114:1010/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CULTURA", History2
+http://190.60.38.114:1010/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-id="xxx" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ANational-Geographic-Logo.svg&psig=AOvVaw1oYHf73P3QfmFvI4jxGFJY&ust=1744565333565000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjTur6C04wDFQAAAAAdAAAAABAE" group-title="CULTURA", Nat Geo
+http://190.60.38.114:1010/play/a045/index.m3u8
+
 #SERIES
 
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="SERIES",Imagen Universal TV
